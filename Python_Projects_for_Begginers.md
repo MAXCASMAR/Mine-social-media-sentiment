@@ -1,4 +1,7 @@
 # Python Basics
 
-## Strings: 
-1. Formatting Strings
+## 1. Strings: 
+1.1 Formatting Strings
+
+## 2. Lists: 
+
